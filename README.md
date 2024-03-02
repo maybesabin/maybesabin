@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maybesabin
+- 👋 Hi, I’m Sabin Hamal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 📫 Reach me on twitter
-- ⚡ Fun fact: I like cookies
+- ⚡ Fun fact: I'm scared of women
 
 <!---
 maybesabin/maybesabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
