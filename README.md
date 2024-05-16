@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 📫 Reach me on twitter
-- ⚡ Fun fact: I'm scared of women
+- ⚡ Fun fact: I'm into boxing and fitness
 
 <!---
 maybesabin/maybesabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
