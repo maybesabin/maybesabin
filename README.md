@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabin Hamal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning DSA with Python & Backend JS
 - 📫 Reach me on twitter
 - ⚡ Fun fact: I'm into boxing and fitness
 
